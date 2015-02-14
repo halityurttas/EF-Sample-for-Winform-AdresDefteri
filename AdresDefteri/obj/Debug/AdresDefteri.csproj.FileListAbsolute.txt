@@ -1,0 +1,20 @@
+C:\Users\halit\AppData\Local\Temporary Projects\AdresDefteri\bin\Debug\AdresDefteri.exe.config
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.exe.config
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\Datalar.mdf
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\Datalar_log.ldf
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\Data\Datalar.mdf
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\Data\Datalar_log.ldf
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.exe
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.pdb
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\EntityFramework.dll
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\EntityFramework.SqlServer.dll
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\EntityFramework.xml
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\bin\Debug\EntityFramework.SqlServer.xml
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csprojResolveAssemblyReference.cache
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.Form1.resources
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.Properties.Resources.resources
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csproj.GenerateResource.Cache
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.exe
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.pdb
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.exe.licenses
+E:\blogprojeler\dotnet\windows-forms\adresdefteri\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.Form2.resources
